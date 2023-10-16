@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GoogleKeep_App_Clone/static/css/main.92289d83.css",
+    "main.js": "/GoogleKeep_App_Clone/static/js/main.26838b1c.js",
+    "static/media/logo.png": "/GoogleKeep_App_Clone/static/media/logo.0b6d1fec4ca20f9bba0f.png",
+    "index.html": "/GoogleKeep_App_Clone/index.html",
+    "main.92289d83.css.map": "/GoogleKeep_App_Clone/static/css/main.92289d83.css.map",
+    "main.26838b1c.js.map": "/GoogleKeep_App_Clone/static/js/main.26838b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92289d83.css",
+    "static/js/main.26838b1c.js"
+  ]
+}
